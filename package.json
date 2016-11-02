@@ -1,0 +1,19 @@
+{
+	"author":"cn",
+	"name":"hello",
+	"version":"0.1.1",
+	"description":"审核文档中的敏感关键词",
+	"main":"hello",
+	"repository":{
+		"type":"git",
+		"ulr":""
+	},
+	"keywords":[
+		"tool","print"
+
+	],
+	"dependencise":{},
+	"engines":{
+		"node":"*"
+	}
+}
